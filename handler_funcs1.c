@@ -73,7 +73,7 @@ int sum = 0;
 stack_t *node = NULL;
 stack_t *node_0 = get_dnodeint_at_index(*stack, 0);
 stack_t *node_1 = get_dnodeint_at_index(*stack, 1);
-  
+
 if (dlistint_len(*stack) < 2)
 {
 dprintf(STDERR_FILENO, ADD_FAIL, line_number);
