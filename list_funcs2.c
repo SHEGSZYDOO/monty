@@ -2,7 +2,7 @@
 #include "lists.h"
 
 /**
-* AUTH: MUNYORODEE & BENNYARUZ 
+* AUTH: MUNYORODEE & BENNYARUZ
 * insert_dnodeint_at_index - inserts a node at a given index
 * in a doubly linked list
 * @h: double pointer to the list
